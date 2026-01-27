@@ -220,3 +220,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - 感谢 Kaggle 及用户 rikdifos 提供的《信用卡审批预测》数据集（采用 CC0: 公共领域许可）。
 - 感谢TOAD和Scorecardpy开发团队提供的优秀开源库
 - 感谢信用风险建模社区分享知识和最佳实践
+
+## 🚀 How to Download
+
+Visit [Releases](https://github.com/tianzhensheng/credit-card-approval-prediction/releases) to download the latest version.
