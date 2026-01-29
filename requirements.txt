@@ -2,6 +2,6 @@ pandas==1.5.0
 numpy==1.24.0
 scikit-learn==1.3.0
 toad==0.6.0
-scorecardpy==0.8.0
 matplotlib==3.5.0
 seaborn==0.11.2
+# scorecardpy is no longer a core dependency
